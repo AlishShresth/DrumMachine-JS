@@ -42,19 +42,16 @@ body {
   display: flex;
 }
 .btn {
-  background-color: #d2691e;
   width: 80%;
   height: 100%;
   box-shadow: 5px 5px 5px 5px rgb(48, 36, 24);
 }
-.btn:hover {
-  background-color: #d2691e;
-}
+
 .text {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
 }
 .playing {
-  background-color: #92684a;
+  background-color: #60bee9;
 }
